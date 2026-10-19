@@ -1,0 +1,5 @@
+# app-ads.txt for Sudoku Classic Brain Booster
+# Replace this file's content with the lines given by AppLovin MAX
+# (MAX dashboard > Account > app-ads.txt), which include every network you mediate.
+# Example format (NOT valid as-is):
+# applovin.com, <YOUR_APPLOVIN_ACCOUNT_ID>, DIRECT, <CERTIFICATION_ID>
